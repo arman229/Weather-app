@@ -1,0 +1,19 @@
+
+@media screen and (max-width: 700px) {
+
+
+
+}
+
+@media screen and (max-width: 300px) {
+    .mycontainer {
+        display: flex;
+        flex-direction: column !important;
+
+
+
+
+    }
+
+
+}
