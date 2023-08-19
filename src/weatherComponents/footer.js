@@ -6,7 +6,7 @@ const Footer = () => {
 
     const styles = {
         color:"white",
-
+fontSize:"1.3em",
         fontFamily: "Open Sans",
         fontStyle: 'italic',
 
